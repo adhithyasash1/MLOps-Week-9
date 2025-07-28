@@ -37,7 +37,7 @@ iris-fairness-analysis/
   3. trains a simple classifier (e.g., decision tree) and records standard metrics  
   4. uses **fairlearn.explain** to compute group-wise performance for `location` = 0 vs. 1  
   5. computes **SHAP** values on the test set, produces a full-dataset summary plot for the “virginica” class, and includes plain-english annotations  
-  6. prints a clear, human-readable explanation of what the shap plot for virginica tells you
+  6. prints a explanation of what the shap plot for virginica talks about.
 
 - **README.md**  
   this file. explains the project objective and the role of each included file.
