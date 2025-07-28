@@ -55,7 +55,7 @@ iris-fairness-analysis/
 4. follow the notebook cells to see how location is added, fairness metrics are computed, and shap plots are generated and interpreted.
 
 
-🔍 shap summary plot interpretation (virginica)
+## 🔍 shap summary plot interpretation (virginica)
 
 in the notebook you’ll see a summary plot where each dot:
 
