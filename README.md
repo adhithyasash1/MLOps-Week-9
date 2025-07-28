@@ -59,9 +59,10 @@ iris-fairness-analysis/
 
 in the notebook you’ll see a summary plot where each dot:
 
-sits on the x-axis at the shap value (how strongly that feature pushes toward or away from predicting virginica)
-is colored by the original feature value (low → blue, high → red)
-is grouped by feature on the y-axis (features sorted by average importance)
+- sits on the x-axis at the shap value (how strongly that feature pushes toward or away from predicting virginica)
+- is colored by the original feature value (low → blue, high → red)
+- is grouped by feature on the y-axis (features sorted by average importance)
+
 you’ll learn in simple words that petal length and width drive virginica predictions (red = long/wide → pushes toward virginica; blue = short/narrow → pushes away), while sepal measurements have minimal effect.
 
 ## author
