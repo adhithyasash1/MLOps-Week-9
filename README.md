@@ -15,11 +15,13 @@ this project introduces a synthetic “location” attribute into the classic ir
 
 ## 📂 directory structure
 
+```
 iris-fairness-analysis/
 └── data/
 └── iris.csv
 └── fairness.ipynb
 └── README.md
+```
 
 ---
 
